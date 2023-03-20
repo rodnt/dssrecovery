@@ -25,7 +25,7 @@ options:
 
 ```bash
 
-python3 dssrecovery.py -p $(curl https://example.com/.DS_Store > DS_Store; echo `pwd`/assets
+python3 dssrecovery.py -p $(curl https://example.com/.DS_Store > DS_Store; echo `pwd`/assets);
 
 #or 
 
